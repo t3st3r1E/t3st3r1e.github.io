@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog-index
 title: About
 description: Test page
 ---

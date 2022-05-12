@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: blog-index
 title: My Blog
 description: Test page
 ---
-This is content
+This is blog content

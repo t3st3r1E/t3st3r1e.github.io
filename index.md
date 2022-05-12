@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Tester Blog
 description: Test page
 ---

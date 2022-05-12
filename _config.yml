@@ -36,7 +36,8 @@ theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
 theme_base: "dark"       # Theme palette (light | dark)
 theme_switch: on         # Show color switch (on | off)
 
-# Extra settings                 # Show blog tag and post list (on | off)
+# Extra settings                 
+blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/profile.jpg"
 avatar_description: "vete a la mierda :)"

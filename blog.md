@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: My Blog
 description: Test page
 categories: blog

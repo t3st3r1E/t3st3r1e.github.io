@@ -6,6 +6,5 @@ categories: blog
 permalink: /blog.html
 
 
-
 ---
 This is blog content

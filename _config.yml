@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tester Blog
-author: "<your_name>"
+author: "Tester"
 email: "<your@mail>"
 description: A simple Jekyll theme based on potatoes and hackers
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -48,6 +48,7 @@ toolbar_priority:        # Order of the items in the toolbar (except for blog an
   - dropdown2
   - About
   - dropdown1
+  - blog
 
 # Collections
 collections:

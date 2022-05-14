@@ -3,7 +3,6 @@ layout: post
 title:  "My First post"
 date:   2016-10-06 12:07:12 -0200
 categories: blog
-
 ---
 
 <img src="/img/post/1begin.jpg" alt="about_pic" style="width=200px; margin:left; display:block">

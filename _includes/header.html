@@ -19,7 +19,7 @@
               {% if site.blog == true %}
                 <li><a href="/blog.html">Blog</a></li>
               {% endif %}
-
+              <!--
               {% for page in site.dropdown %}
                 <li class="dropdown dropdown-{{ page.dropdown }}">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown"
@@ -31,11 +31,13 @@
                   </ul>
                 </li>
               {% endfor %}
+              -->
               {% for page in site.items %}
                 <li class="nav-item"><a href="{% if page.redirect_to %}{{page.redirect_to}}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}">{{ page.title }}</a></li>
               {% endfor %}
 
-              <script>
+             <!-- 
+               <script>
                 // clean repeated dropdowns and add <li> to their positions
                 let done = [];
                 let elements = [];
@@ -66,6 +68,7 @@
                 });
                 $(".nav").append(elements)
               </script>
+              -->
             </ul>
           </div>
         </div>

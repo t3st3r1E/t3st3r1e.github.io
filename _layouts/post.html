@@ -1,7 +1,4 @@
-<h4 class="post-title"> {{ page.date }} </h4>
-  <article class="blog-post">
-    {{ content }}
-  </article>
+
 
   <!DOCTYPE html>
 {% include head.html %}
@@ -41,7 +38,11 @@
           </div>
           <img src="/blog_post.jpg" alt="blog_post">
           <!--<h1 class="post-title page-title" id="title"><a href="">{{ page.title }}</a></h1>-->
-          {{ content }}
+          <h4 class="post-title"> {{ page.date }} </h4>
+          <article class="blog-post">
+            {{ content }}
+          </article>
+  
         </div>
         <div class="col-sm-2">
           <div class="pane-separator hidden-xs" style="margin-bottom:0em;">

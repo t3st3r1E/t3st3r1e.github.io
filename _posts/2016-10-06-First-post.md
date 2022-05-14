@@ -3,6 +3,7 @@ layout: post
 title:  "First post"
 date:   2016-10-06 12:07:12 -0200
 categories: blog
+background: '/first_post.jpg'
 ---
 
 

@@ -34,7 +34,7 @@
           <div class="page-separator visible-xs">
             <h1 class="h1-strip" style="padding-bottom:0em; margin-bottom: 0;"></h1>
           </div>
-          <!--<img src="/blog_post.jpg" alt="blog_post">-->
+          
           <h2 class="post-title page-title" id="title"><a href="">{{ page.title }}</a></h2>
           <h4 class="post-title"> {{ page.date }} </h4>
           <article class="blog-post">
@@ -46,41 +46,7 @@
           <div class="pane-separator hidden-xs" style="margin-bottom:0em;">
           <h1></h1>
           </div>
-          <!--<div class="pane-separator visible-xs" style="margin-bottom:5em;"></div>
-          <div class="right-pane" style="margin-left: 1em;">
-            {% if site.avatar == true %}
-              <div class="avatar">
-                <center>
-                  {% if site.avatar_image != null %}
-                    <img src="{{ site.avatar_image | prepend: '/' | prepend: site.baseurl }}" alt="me" class="avatar-image">
-                  {% endif %}
-                  {% if site.avatar_description != null %}
-                    <p class="avatar-description">{{site.avatar_description}}</p>
-                  {% endif %}
-                  <div class="right-links">
-                    {% include links.html %}
-                  </div>
-                </center>
-              </div>
-            {% endif %}
-            
-            {% if site.blog == true %}
-              <div class="posts-list">
-                <a href="{{ '/blog.html' | prepend: site.baseurl }}">
-                  <h5>Posts</h5>
-                </a>
-                <ul>
-                  {% for i in (1..site.recent_posts) %}
-                     {% assign post = site.posts[i] %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl  }}">{{ post.title }}</a>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
-            {% endif %}
-            
-          </div>-->
+
         </div>
       </div>
     </section>

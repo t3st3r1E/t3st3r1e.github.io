@@ -16,7 +16,7 @@
 title: Tester Blog
 author: "Tester"
 email: ""
-description: A simple Jekyll theme based on potatoes and hackers
+description: Nothing to describe 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -40,7 +40,7 @@ theme_switch: on         # Show color switch (on | off)
 blog: on                 # Show blog tag and post list (on | off)
 avatar: on               # Show avatar (on | off)
 avatar_image: "assets/img/profile.jpg"
-avatar_description: "vete a la mierda :)"
+avatar_description: "¡¡Bienvenidos expertos!! :)"
 highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
                             # colorful | github | gruvbox | molokai |
                             # monokai | pastie | thankful_eyes | tulip ]

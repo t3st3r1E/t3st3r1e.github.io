@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tester Blog
 author: "Tester"
-email: "<your@mail>"
+email: ""
 description: A simple Jekyll theme based on potatoes and hackers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,10 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Custom settings
 # ------------------------------------------------------------------------------
 # Useful links
-github_username: "<github_username>"
+github_username: "t3st3r1E"
 facebook_username: "<facebook_username>"
-twitter_username: "<twitter_username>"
-linkedin_id: "<linkedin_id>"
+twitter_username: "@Manjil1001"
+linkedin_id: "manjil-neupane-623a681a4"
 
 # Theme
 # theme: jekyll-theme-potato-hacker                 # Uncomment this

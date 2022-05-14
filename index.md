@@ -1,6 +1,6 @@
 ---
 layout: home
-
+title: Tester Blog
 description: Test page
 ---
 # Lorem ipsum
